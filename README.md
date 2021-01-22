@@ -18,9 +18,13 @@ Link : https://vegangirlwhocodes.github.io/
 # Contribute
 
 Contributions are always welcome! 
-We could also make this a repo to share all your github pages links. 
 
-Please create a PR to add your Github Page link.
+Please create a PR to add your GitHub Page link bellow!
+
+## List of all of your amazing GitHub pages
+
+- https://vegangirlwhocodes.github.io/
+
 
 ## :pencil: License
 
